@@ -105,34 +105,34 @@ export default {
 .dashboard {
   background-color: #007bff;
   color: white;
-  padding: 20px;
+  padding: 22px;
   border-radius: 5px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   text-align: center;
 }
 
 .btn-group {
-  margin-top: 20px;
+  margin-top: 22px;
 }
 
 .btn {
-  margin: 5px;
+  margin: 7px;
 }
 
 .opciones-principales {
   display: flex;
   justify-content: center;
-  margin-top: 20px;
+  margin-top: 22px;
 }
 
 .sub-opciones {
   display: flex;
   justify-content: center;
-  margin-top: 10px;
+  margin-top: 12px;
 }
 
 .opciones button {
-  margin: 5px;
+  margin: 7px;
 }
 
 .opciones button:hover {
@@ -161,9 +161,9 @@ export default {
 .dashboard {
   background: linear-gradient(135deg, #53cbf3, #04599b);
   color: white;
-  padding: 20px;
+  padding: 22px;
   border-radius: 10px;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 7px 17px rgba(0, 0, 0, 0.2);
   text-align: center;
 }
 
