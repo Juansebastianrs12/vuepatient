@@ -94,6 +94,7 @@ export default {
     methods:{
         obtenerInformacionID(){
         //Prueba Github
+        //Api
             fetch('http://localhost/api/?consultar='+this.$route.params.id)
             .then(respuesta=>respuesta.json())
             .then((datosRespuesta)=>{
