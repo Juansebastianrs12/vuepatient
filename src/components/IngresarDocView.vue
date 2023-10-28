@@ -1,3 +1,5 @@
+// Verificación búsqueda de usuario por cédula
+
 <template>
   <div class="container">
     <div class="card">
