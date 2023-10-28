@@ -15,6 +15,7 @@
     </template>
      -->
 
+// Barra de navegación fija
      
 <template>
     <div class="dashboard">
