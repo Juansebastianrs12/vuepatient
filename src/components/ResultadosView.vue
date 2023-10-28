@@ -45,7 +45,7 @@
                 </table>
             </div>
             <div class="card-footer text-muted">
-                Copyright: Bioing Company 2023
+                Copyright:Software Solutions 
             </div>
         </div>
 

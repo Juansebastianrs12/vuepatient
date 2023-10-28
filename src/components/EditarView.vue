@@ -71,7 +71,7 @@
           <div class="btn-group" role="group" aria-label="">
             <button type="submit" class="btn btn-success">Modificar</button>
             <button type="reset" class="btn btn-warning">Cancelar</button>
-            <router-link :to="{ name: 'home' }" class="btn btn-info">Volver</router-link>
+            <router-link :to="{ name: 'listar' }" class="btn btn-info">Volver</router-link>
           </div>
         </form>
       </div>

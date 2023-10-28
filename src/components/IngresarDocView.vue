@@ -19,7 +19,7 @@
       </div>
 
       <div class="card-footer text-muted" style="background-color: #007BFF; color: white; text-align: center;">
-        Copyright: <b>Bioing Company</b>
+        Copyright: <b>Software Solutions </b>
       </div>
     </div>
   </div>
